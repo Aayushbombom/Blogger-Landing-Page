@@ -7,7 +7,7 @@ ___
 
 ![screenshot1](./images/Screenshot1.jpg)
 
-![screenshot2](./images/Screenshot2.jpg)
+![screenshot2](./images/screenshot2.jpg)
 
 ___
 
