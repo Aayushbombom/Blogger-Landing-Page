@@ -1,9 +1,9 @@
-#Blogger Landing Page
+# Blogger Landing Page
 ___
 
-##Overview
+## Overview
 
-######This is a landing page of a site. It looks something like this.
+###### This is a landing page of a site. It looks something like this.
 
 ![screenshot1](./images/Screenshot1.jpg)
 
@@ -11,7 +11,7 @@ ___
 
 ___
 
-##Technologies Used
+## Technologies Used
 
 * HTML
 * CSS (vanilla)
@@ -21,4 +21,4 @@ ___
 
 
 
->The design of this project is inspired from a challenge on [frontend Mentor](https://www.frontendmentor.io/) and not my orginal. However the code for the design is written by me.
+> The design of this project is inspired from a challenge on [frontend Mentor](https://www.frontendmentor.io/) and not my orginal. However the code for the design is written by me.
