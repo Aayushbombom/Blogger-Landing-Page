@@ -1,5 +1,5 @@
 # Blogger Landing Page
-___
+
 
 ## Overview
 
@@ -9,7 +9,7 @@ ___
 
 ![screenshot2](./images/screenshot2.jpg)
 
-___
+
 
 ## Technologies Used
 
